@@ -1,0 +1,471 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.content {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 50%;
+}
+
+.rectanguloinfo {
+    height: 200px;
+    width: 1200px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -700px;
+    border-radius: 10px;
+}
+
+.imagen {
+    position: relative;
+    width: 170px;
+    height: 170px;
+    left: 20px;
+    top: 20px;
+    border-radius: 15px;
+}
+
+.imagen_2 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 620px;
+    top: -250px;
+    border-radius: 15px;
+}
+
+.imagen_3 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    left: 880px;
+    top: -250px;
+    border-radius: 15px;
+}
+
+article {
+    color: black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+article h1 {
+    position: relative;
+    text-align: center;
+    top: -180px;
+    right: 300px;
+}
+
+article h2 {
+    position: relative;
+    text-align: center;
+    top: -180px;
+    right: 320px;
+}
+
+article p {
+    position: relative;
+    top: -150px;
+    left: 200px;
+}
+
+article p1 {
+    position: relative;
+    left: 200px;
+    top: -230px;
+}
+
+article h3 {
+    position: relative;
+    top: -320px;
+    left: 950px;
+}
+
+article h4 {
+    position: relative;
+    top: -280px;
+    left: 950px;
+}
+
+.recuadroizquierdo {
+    height: 200px;
+    width: 200px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -680px;
+    border-radius: 10px;
+    left: -500px;
+}
+
+article ul h1 {
+    left: -35px;
+    top: 5px;
+}
+
+article ul p {
+    left: 30px;
+    top: 20px;
+}
+
+.rectanguloderechoblog {
+    height: 500px;
+    width: 700px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -870px;
+    left: 250px;
+    border-radius: 10px;
+}
+
+article .Descrip {
+    left: -180px;
+    top: 20px;
+}
+
+article .Descrip_text {
+    left: 30px;
+    top: -250px;
+}
+
+article .info_github {
+    position: relative;
+    left: 30px;
+    top: 450px;
+}
+
+.imagen_4 {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    left: 350px;
+}
+
+.rectanguloizquierdoinferior {
+    height: 500px;
+    width: 400px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -1150px;
+    left: -400px;
+    border-radius: 10px;
+}
+
+article .hobbies {
+    left: -100px;
+    top: 25px;
+}
+
+.pasatiempo {
+    left: -150px;
+    top: 35px;
+}
+
+article .Interes {
+    left: -150px;
+    top: 35px;
+}
+
+article .Interes_2 {
+    left: 10px;
+    top: 45px;
+}
+
+.pasatiempo_2 {
+    text-align: center;
+}
+
+article .gustos {
+    left: -150px;
+    top: 50px;
+}
+
+article .gustos_2 {
+    left: 10px;
+    top: 60px;
+}
+
+.pasatiempo_3 {
+    text-align: center;
+}
+
+article .deporte {
+    left: -150px;
+    top: 50px;
+}
+
+article .deporte_2 {
+    left: 10px;
+    top: 60px;
+}
+
+.cuadroderecha {
+    height: 300px;
+    width: 700px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -1350px;
+    left: 250px;
+    border-radius: 10px;
+}
+
+article .exp {
+    left: -190px;
+    top: 20px;
+}
+
+.time {
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+article .exp_2 {
+    left: 40px;
+    top: 50px;
+}
+
+.time_2 {
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+article .exp_3 {
+    left: 40px;
+    top: 50px;
+}
+
+.time_3 {
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+article .exp_4 {
+    left: 20px;
+    top: 50px;
+}
+
+article .time_4 {
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+article .exp_5 {
+    left: 20px;
+    top: 50px;
+}
+
+.cuadroizquierdoreposito {
+    height: 400px;
+    width: 400px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -1320px;
+    left: -400px;
+    border-radius: 10px;
+}
+
+.trabajos {
+    text-align: center;
+}
+
+article .resaltado {
+    left: -100px;
+    top: -20px;
+}
+
+article .title {
+    left: -100px;
+    top: 50px;
+}
+
+article .introtext {
+    left: 50px;
+    top: 60px;
+}
+
+.box {
+    height: 50px;
+    width: 150px;
+    background: blue;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: 220px;
+    left: -80px;
+    border-radius: 10px;
+}
+
+article .boton {
+    left: -20px;
+    top: 5px;
+}
+
+.box_2 {
+    height: 50px;
+    width: 150px;
+    background: cyan;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: 167px;
+    left: 90px;
+    border-radius: 10px
+}
+
+article .boton_2 {
+    left: -20px;
+    top: 5px;
+}
+
+.cuadrocentroreposito {
+    height: 400px;
+    width: 400px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -1720px;
+    left: 50px;
+    border-radius: 10px;
+}
+
+.trabajos_2 {
+    text-align: center;
+}
+
+article .resaltado_2 {
+    left: -100px;
+    top: -20px;
+}
+
+article .title_2 {
+    left: -100px;
+    top: 50px;
+}
+
+article .introtext_2 {
+    left: 50px;
+    top: 60px;
+}
+
+.box_3 {
+    height: 50px;
+    width: 150px;
+    background: blue;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: 220px;
+    left: -80px;
+    border-radius: 10px;
+}
+
+article .boton_3 {
+    left: -20px;
+    top: 5px;
+}
+
+.box_4 {
+    height: 50px;
+    width: 150px;
+    background: cyan;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: 167px;
+    left: 90px;
+    border-radius: 10px
+}
+
+article .boton_4 {
+    left: -20px;
+    top: 5px;
+}
+
+.cuadroderechoreposito {
+    height: 400px;
+    width: 400px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: -2120px;
+    left: 500px;
+    border-radius: 10px;
+}
+
+.trabajos_3 {
+    text-align: center;
+}
+
+article .resaltado_3 {
+    left: -100px;
+    top: -20px;
+}
+
+article .title_3 {
+    left: -100px;
+    top: 50px;
+}
+
+article .introtext_3 {
+    left: 50px;
+    top: 60px;
+}
+
+.box_5 {
+    height: 50px;
+    width: 150px;
+    background: blue;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: 190px;
+    left: -80px;
+    border-radius: 10px;
+}
+
+article .boton_5 {
+    left: -20px;
+    top: 5px;
+}
+
+.box_6 {
+    height: 50px;
+    width: 150px;
+    background: cyan;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    top: 140px;
+    left: 90px;
+    border-radius: 10px
+}
+
+article .boton_6 {
+    left: -20px;
+    top: 5px;
+}
