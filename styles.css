@@ -12,6 +12,7 @@ body {
     margin: auto;
     display: block;
     margin-top: 50%;
+    height: 200px;
 }
 
 .rectanguloinfo {
@@ -98,15 +99,15 @@ article h4 {
 }
 
 .recuadroizquierdo {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 400px;
     background: white;
     position: relative;
     margin: 0 auto;
     border: 1px solid black;
     top: -680px;
     border-radius: 10px;
-    left: -500px;
+    left: -397px;
 }
 
 article ul h1 {
@@ -120,13 +121,13 @@ article ul p {
 }
 
 .rectanguloderechoblog {
-    height: 500px;
-    width: 700px;
+    height: 300px;
+    width: 600px;
     background: white;
     position: relative;
     margin: 0 auto;
     border: 1px solid black;
-    top: -870px;
+    top: -830px;
     left: 250px;
     border-radius: 10px;
 }
@@ -137,8 +138,11 @@ article .Descrip {
 }
 
 article .Descrip_text {
-    left: 30px;
-    top: -250px;
+    left: 45px;
+    top: -180px;
+    text-align: justify;
+    width: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 article .info_github {
@@ -149,26 +153,26 @@ article .info_github {
 
 .imagen_4 {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     left: 350px;
 }
 
 .rectanguloizquierdoinferior {
-    height: 500px;
-    width: 400px;
+    height: 300px;
+    width: 450px;
     background: white;
     position: relative;
     margin: 0 auto;
     border: 1px solid black;
-    top: -1150px;
-    left: -400px;
+    top: -960px;
+    left: -372px;
     border-radius: 10px;
 }
 
 article .hobbies {
-    left: -100px;
-    top: 25px;
+    left: -150px;
+    top: 10px;
 }
 
 .pasatiempo {
@@ -177,13 +181,13 @@ article .hobbies {
 }
 
 article .Interes {
-    left: -150px;
-    top: 35px;
+    left: -160px;
+    top: 20px;
 }
 
 article .Interes_2 {
-    left: 10px;
-    top: 45px;
+    left: 20px;
+    top: 35px;
 }
 
 .pasatiempo_2 {
@@ -191,13 +195,13 @@ article .Interes_2 {
 }
 
 article .gustos {
-    left: -150px;
-    top: 50px;
+    left: -160px;
+    top: 38px;
 }
 
 article .gustos_2 {
-    left: 10px;
-    top: 60px;
+    left: 15px;
+    top: 55px;
 }
 
 .pasatiempo_3 {
@@ -205,24 +209,24 @@ article .gustos_2 {
 }
 
 article .deporte {
-    left: -150px;
+    left: -140px;
     top: 50px;
 }
 
 article .deporte_2 {
-    left: 10px;
-    top: 60px;
+    left: 20px;
+    top: 55px;
 }
 
 .cuadroderecha {
     height: 300px;
     width: 700px;
     background: white;
-    position: relative;
+    position: absolute;
     margin: 0 auto;
     border: 1px solid black;
-    top: -1350px;
-    left: 250px;
+    top: -150px;
+    left: 650px;
     border-radius: 10px;
 }
 
@@ -276,13 +280,13 @@ article .exp_5 {
 }
 
 .cuadroizquierdoreposito {
-    height: 400px;
+    height: 200px;
     width: 400px;
     background: white;
     position: relative;
     margin: 0 auto;
     border: 1px solid black;
-    top: -1320px;
+    top: -750px;
     left: -400px;
     border-radius: 10px;
 }
@@ -292,62 +296,29 @@ article .exp_5 {
 }
 
 article .resaltado {
-    left: -100px;
+    left: -60px;
     top: -20px;
 }
 
 article .title {
-    left: -100px;
-    top: 50px;
+    left: -150px;
+    top: -10px;
 }
 
 article .introtext {
-    left: 50px;
-    top: 60px;
-}
-
-.box {
-    height: 50px;
-    width: 150px;
-    background: blue;
-    position: relative;
-    margin: 0 auto;
-    border: 1px solid black;
-    top: 220px;
-    left: -80px;
-    border-radius: 10px;
-}
-
-article .boton {
-    left: -20px;
-    top: 5px;
-}
-
-.box_2 {
-    height: 50px;
-    width: 150px;
-    background: cyan;
-    position: relative;
-    margin: 0 auto;
-    border: 1px solid black;
-    top: 167px;
-    left: 90px;
-    border-radius: 10px
-}
-
-article .boton_2 {
-    left: -20px;
+    font-size: 20px;
+    left: 5px;
     top: 5px;
 }
 
 .cuadrocentroreposito {
-    height: 400px;
+    height: 200px;
     width: 400px;
     background: white;
     position: relative;
     margin: 0 auto;
     border: 1px solid black;
-    top: -1720px;
+    top: -951px;
     left: 50px;
     border-radius: 10px;
 }
@@ -371,48 +342,14 @@ article .introtext_2 {
     top: 60px;
 }
 
-.box_3 {
-    height: 50px;
-    width: 150px;
-    background: blue;
-    position: relative;
-    margin: 0 auto;
-    border: 1px solid black;
-    top: 220px;
-    left: -80px;
-    border-radius: 10px;
-}
-
-article .boton_3 {
-    left: -20px;
-    top: 5px;
-}
-
-.box_4 {
-    height: 50px;
-    width: 150px;
-    background: cyan;
-    position: relative;
-    margin: 0 auto;
-    border: 1px solid black;
-    top: 167px;
-    left: 90px;
-    border-radius: 10px
-}
-
-article .boton_4 {
-    left: -20px;
-    top: 5px;
-}
-
 .cuadroderechoreposito {
-    height: 400px;
+    height: 200px;
     width: 400px;
     background: white;
     position: relative;
     margin: 0 auto;
     border: 1px solid black;
-    top: -2120px;
+    top: -1155px;
     left: 500px;
     border-radius: 10px;
 }
@@ -434,38 +371,4 @@ article .title_3 {
 article .introtext_3 {
     left: 50px;
     top: 60px;
-}
-
-.box_5 {
-    height: 50px;
-    width: 150px;
-    background: blue;
-    position: relative;
-    margin: 0 auto;
-    border: 1px solid black;
-    top: 190px;
-    left: -80px;
-    border-radius: 10px;
-}
-
-article .boton_5 {
-    left: -20px;
-    top: 5px;
-}
-
-.box_6 {
-    height: 50px;
-    width: 150px;
-    background: cyan;
-    position: relative;
-    margin: 0 auto;
-    border: 1px solid black;
-    top: 140px;
-    left: 90px;
-    border-radius: 10px
-}
-
-article .boton_6 {
-    left: -20px;
-    top: 5px;
 }
